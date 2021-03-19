@@ -7,7 +7,7 @@
   <div class="flex h-screen justify-center items-center">
 <div class="absolute object-center w-3/5">
 
- <div class="container h-3/2  flex   py-8 px-16 items-center p-0 justify-center flex-col">
+ <div class="container h-3/2  flex   py-8  items-center p-0 justify-center flex-col">
     <img class="mb-10   p-0  rounded-full" alt="hero" src="~/assets/faraz.jpg">
 	   <NavBar/>
     <div class="text-center lg:w-2/3 w-full">
